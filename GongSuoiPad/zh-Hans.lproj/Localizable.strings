@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ GongSuo
+ 
+ Created by 邓鹏 on 14-8-6.
+ Copyright (c) 2014年 com.kevin. All rights reserved.
+ */
+"language"="help_cn";
+"start"="开始";
+"stop"="停止";
+"averageTitle"="平均值(1小时)";
+"averageDuration"="平均持续";
+"averageFrequency"="平均间隔";
+"title"="宫缩计";
+"introduct"="宫缩介绍";
+"time"="次";
+"startTime"="开始时间";
+"endTime"="停止时间";
+"duration"="持续时间";
+"frequency"="间隔时间";
+"frequencyUnit"="间隔(m)";
+"lessThan10s"="间隔时间少于10秒,请赶紧进产房!";
+"lessThan5s"="持续时间少于5秒,丢弃无效数据!";
+"moreThan5min"="持续时间大于5分钟,请赶紧去看医生!";
+"recordAllShow"="显示全部记录";
+"recordAllDelete"="删除全部记录";
+"recordAllDeleteConfirm"="确定删除全部历史记录?";
+"recordDeleteConfirm"="删除全部记录";
+"close"="关闭";
+"readmeColor"="颜色";
+"readmeColorDetail"="绿色不用担心(大于10分钟)、黄色咨询医生(小于10分钟)、红色马上有喜(小于5分钟)";
+"readmeUnit"="单位:";
+"readmeUnitDetail"="分钟 缩写为 m 秒钟 缩写为 s";
+"readmeUsage"="操作:";
+"readmeUsageDetail"="阵痛开始时请触碰圆形表盘<br>停止阵痛后请再点一次<br>如误操作可触碰记录进行删除";
+"dialogTelNumberPlaceholder"="紧急联系号码";
+"dialogTelNumberDial"="拨号";
+"btnCancel"="取消";
+"btnConfirm"="确定";
+"setNumber"="设置紧急联系电话";
+"dailNumber"="拨打紧急联系电话";
+"numberDesc"="选择设置或者拨打紧急联系电话";
+"numberLabel"="请输入紧急联系电话";
+"history"="全部记录";
+"know"="知道了";
+"edit"="编辑";
+"search"="http://www.baidu.com/s?wd=%E5%AE%AB%E7%BC%A9";

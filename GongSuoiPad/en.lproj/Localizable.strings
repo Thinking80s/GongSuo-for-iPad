@@ -1,0 +1,47 @@
+/*
+ Localizable.strings
+ GongSuo
+ 
+ Created by 邓鹏 on 14-8-6.
+ Copyright (c) 2014年 com.kevin. All rights reserved.
+ */
+"language"="help_us";
+"start"="Start";
+"stop"="Stop";
+"averageTitle"="Average (1h)";
+"averageDuration"="Duration";
+"averageFrequency"="Frequency";
+"title"="UterineContraction";
+"introduct"="Introduction";
+"time"="Times";
+"startTime"="startTime";
+"endTime"="StopTime";
+"duration"="Duration";
+"frequency"="Frequency";
+"frequencyUnit"="Frequency(m)";
+"lessThan10s"="Less Than 10 seconds, go to the delivery room!";
+"lessThan5s"="Less Than 5 seconds, Drop the record!";
+"moreThan5min"="More Than 5 minutes, go to the hospital!";
+"recordAllShow"="Show all records";
+"recordAllDelete"="DELETE all records";
+"recordAllDeleteConfirm"="Are sure delete all records?";
+"recordDeleteConfirm"="DELETE all records";
+"close"="Close";
+"readmeColor"="Color:";
+"readmeColorDetail"="Green is OK (>10m)、Yellow is time to see Dr. (<10m)、Reddy for Baby ♥ (<5m)";
+"readmeUnit"="Unit:";
+"readmeUnitDetail"="Minute abbreviations m <br>Second abbreviation s";
+"readmeUsage"="Usage:";
+"readmeUsageDetail"="When contraction Tap clock to start <br>Tap again to stop<br>Tap log to delete";
+"dialogTelNumberPlaceholder"="Emergency Number";
+"dialogTelNumberDial"="Dial";
+"btnCancel"="Cancel";
+"btnConfirm"="Confirm";
+"setNumber"="Setting emergency contact phone";
+"dailNumber"="Dial Emergency contact phone";
+"numberDesc"="Select settings or call the emergency contact phone";
+"numberLabel"="Please enter the emergency contact phone";
+"history"="All";
+"know"="Got it";
+"edit"="Edit";
+"search"="http://www.google.com/search?q=uterine%20contraction";
